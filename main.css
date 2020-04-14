@@ -37,6 +37,7 @@ body {
 
 
 .card img {
+  background-color: white;
   width: 300px;
-  height: 300px;
+  height: 450px;
 }
