@@ -27,3 +27,16 @@ body {
 .nav-item a:hover{
   background-color: #111;
 }
+
+.card {
+  border: 3px dotted #333;
+  border-radius: 5px;
+  width: 300px;
+  float: left;
+}
+
+
+.card img {
+  width: 300px;
+  height: 300px;
+}
